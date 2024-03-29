@@ -1,4 +1,4 @@
-# shape_recognition
+# Shape Recognition
 
 ## Description
 This script performs the following steps:
@@ -13,5 +13,10 @@ This script performs the following steps:
 
 ## Dependencies
 Python 3.x
-
 OpenCV (cv2)
+
+## How to run
+
+```sh
+  python main.py
+```
