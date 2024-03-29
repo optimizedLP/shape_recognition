@@ -1,4 +1,4 @@
-# Shape Recognition
+# Shape Recognition 
 
 ## Description
 This script performs the following steps:
@@ -12,8 +12,8 @@ This script performs the following steps:
 7. Draws contours around the detected shapes and displays the count of each shape.
 
 ## Dependencies
-Python 3.x
-OpenCV (cv2)
+* Python 3.x
+* OpenCV (cv2)
 
 ## How to run
 
