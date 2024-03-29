@@ -13,4 +13,5 @@ This script performs the following steps:
 
 ## Dependencies
 Python 3.x
+
 OpenCV (cv2)
