@@ -18,7 +18,7 @@ This script performs the following steps:
 ## How to run
 
 ```sh
-  python main.py
+  python shape.py
 ```
 
 ## About Me
