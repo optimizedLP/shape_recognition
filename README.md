@@ -20,3 +20,7 @@ This script performs the following steps:
 ```sh
   python main.py
 ```
+
+## About Me
+
+I'm [Dhruv Jani](https://github.com/optimizedLP). I enjoy building fun and interactive projects with Python. Feel free to connect with me on GitHub! :rocket:
